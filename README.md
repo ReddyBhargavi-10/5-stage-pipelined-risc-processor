@@ -89,9 +89,9 @@ Memory[20] = E7
 
 ## Simulation Waveforms
 
-risc_processor_waveform_1.png
+"C:\Users\bharg\Downloads\risc_processor_waveform_1.png"
 
-risc_processor_waveform_2.png
+"C:\Users\bharg\Downloads\risc_processor_waveform_2.png"
 
 
 ## Verification
