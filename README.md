@@ -17,8 +17,9 @@ The design includes hazard detection and forwarding mechanisms to handle data de
 
 ## Features
 
-* 8-bit RISC architecture
+* 8-bit datapath
 * 5-stage pipelined design
+* 16-bit instruction format
 * Register file with 8 general-purpose registers
 * Arithmetic Logic Unit (ALU)
 * Multiplier Unit
