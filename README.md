@@ -89,9 +89,10 @@ Memory[20] = E7
 
 ## Simulation Waveforms
 
-![Pipeline Waveform](docs/risc_processor_waveform_1.png)
+![Pipeline Waveform](risc_processor_waveform_1.png)
 
-![Pipeline Waveform](docs/risc_processor_waveform_2.png)
+
+![Final Results](risc_processor_waveform_2.png)
 
 
 ## Verification
